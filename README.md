@@ -1,1 +1,1 @@
-# odin-recipes
+I will create a list of step including the recipe name, and the steps in making the dish
